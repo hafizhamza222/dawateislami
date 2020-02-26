@@ -1,0 +1,88 @@
+*{
+    margin: 0em;
+    padding: 0em;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.navbarFirst{
+    background-color: darkslategray;
+    text-align: center;
+    color: white;
+    padding: 50px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    word-spacing:  10px;
+    margin-top: -45px;
+    display: block;
+    word-spacing: 25px;
+    
+}
+
+.navbarSecond{
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    vertical-align: top;
+    
+    
+}
+li{
+    display: inline;
+}
+li:hover{
+    color: darkcyan;
+}
+b{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.imgTex{
+    position: absolute;
+    padding-top: 20px; 
+    color:white;
+    width: 300px;
+    bottom: 10px;
+    font-weight: bolder;   
+    margin-left: 15px;
+}
+.imgTex:hover{
+    color: lightseagreen;
+}
+.img{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+p{
+    padding-top: 0em;
+    margin-bottom: 10px;
+}
+.butt{
+    width: 160px;
+    height: 60px;
+    background-color:  darkslategray;
+    border-radius: 8px;
+    margin-left: 12cm;
+    
+}
+.butt:hover{
+    background-color: white;
+    color: black;
+    
+}
+.third{
+    display: inline;
+    
+}
+.abs{
+    display: inline-block;
+
+}
+.pic1{
+    display: inline-block;
+}
